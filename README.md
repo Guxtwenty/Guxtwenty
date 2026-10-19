@@ -25,3 +25,6 @@ Tenho interesse em desenvolvimento de software e busco aprender novas tecnologia
 ## 📫 Contato
 
 - GitHub: [@Guxtwenty](https://github.com/Guxtwenty)
+## 🤝 Vamos nos conectar?
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-jesus-504456397/?isSelfProfile=true
