@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Gustavo Magalhães 👋
 
-<!--
-**Guxtwenty/Guxtwenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na UNICID — 2º semestre.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha trajetória na área de tecnologia, desenvolvendo meus conhecimentos em programação, lógica computacional e modelagem de dados.
+
+Tenho interesse em desenvolvimento de software e busco aprender novas tecnologias por meio de projetos acadêmicos e pessoais.
+
+## 📚 Atualmente estudando
+
+- Lógica de programação e algoritmos
+- Modelagem de bancos de dados
+- Fundamentos da Engenharia de Software
+- Desenvolvimento de sistemas
+
+## 🎯 Meus objetivos
+
+- Desenvolver projetos práticos e aprimorar minhas habilidades.
+- Aprender novas linguagens e tecnologias.
+- Compartilhar minha evolução acadêmica no GitHub.
+- Buscar oportunidades de estágio na área de Tecnologia da Informação.
+
+## 📫 Contato
+
+- GitHub: [@Guxtwenty](https://github.com/Guxtwenty)
